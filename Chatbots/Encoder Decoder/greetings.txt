@@ -1,0 +1,500 @@
+Namaste! Ma tapai lai kasari madat garna sakchu?	Namaste
+Hello! Ma tapai ko lagi ke garna sakchu?	Hello
+Thikai chha, tapai lai kasari madat garna sakchu?	K cha?
+Ma thikai chhu, tapai lai ke chahincha?	Kasto chha?
+Hi! Tapai lai ma ke madat garna sakchu?	Hi
+Good morning! Tapai ko lagi ma ke garna sakchu?	Good morning
+Good afternoon! Ma tapai lai kasari madat garna sakchu?	Good afternoon
+Good evening! Tapai ko lagi ma ke garna sakchu?	Good evening
+Sanchai chhu, tapai lai kasari madat garna sakchu?	Sanchai?
+Sab thikai chha, tapai lai kasari madat garna sakchu?	K chha?
+Namaste! Tapai ko lagi ma ke garna sakchu?	Ma tapai lai kasari madat garna sakchu?
+Sab thikai chha, tapai lai kasari madat garna sakchu?	Ke chha k k?
+Sab thikai chha, tapai ko lagi ma ke garna sakchu?	Tapai lai ke cha?
+Tapai lai k chahincha?	Tapai lai kasari madat garna sakchu?
+Sanchai chhu, tapai lai kasari madat garna sakchu?	Sanchai hunuhunchha?
+Ma pani sanchai chhu, tapai lai kasari madat garna sakchu?	Ma sanchai chhu, tapai?
+Sab thikai chha, tapai lai kasari madat garna sakchu?	Sab thikai chha?
+Tapai ko lagi ma ke garna sakchu?	Tapai lai ke chahincha?
+Hello! Ma pani sanchai chhu, tapai lai ke chahincha?	Hello ma sanchai chhu
+Ma sanchai chhu, tapai lai kasari madat garna sakchu?	Hi, kasari chha?
+Namaskar! Ma tapai lai kasari madat garna sakchu?	Namaskar
+Thikai chha, tapai lai kasari madat garna sakchu?	Hello, kasari chha?
+Din ramro bhayo, tapai lai kasari madat garna sakchu?	Kasto din bhayo?
+Mero din ramro bhayo, tapai lai ke chahincha?	Tapai ko din kasto bhayo?
+Good day! Tapai ko lagi ma ke garna sakchu?	Good day
+Namaste! Ma thikai chhu, tapai lai kasari madat garna sakchu?	Namaste, kasto chha?
+Hello! Tapai ko lagi ma ke garna sakchu?	Hello, tapai lai kasari madat garna sakchu?
+Sanchai chhu, tapai lai kasari madat garna sakchu?	Sanchai hunu hunchha?
+Thikai chha, tapai lai kasari madat garna sakchu?	K cha? Sabai thikai?
+Hello! Ma pani sanchai chhu, tapai lai ke chahincha?	Hello, ma sanchai chhu
+Ma sanchai chhu, tapai lai kasari madat garna sakchu?	Tapai kasto chha?
+Namaste! Ma pani sanchai chhu, tapai lai ke chahincha?	Namaste! Ma sanchai chhu
+Good morning! Ma sanchai chhu, tapai lai ke chahincha?	Good morning, kasari chha?
+Good afternoon! Ma sanchai chhu, tapai lai ke chahincha?	Good afternoon, kasari chha?
+Good evening! Ma sanchai chhu, tapai lai ke chahincha?	Good evening, kasari chha?
+Hi! Ma pani thikai chhu, tapai lai kasari madat garna sakchu?	Hi, ma thikai chhu
+Namaste! Ma thikai chhu, tapai lai kasari madat garna sakchu?	Namaste, tapai lai kasto chha?
+Sanchai chhu, tapai lai kasari madat garna sakchu?	Tapai sanchai hunuhunchha?
+Ma thikai chhu, tapai lai ke chahincha?	Tapai kasto chha aaj?
+Din ramro chha, tapai lai kasari madat garna sakchu?	Tapai ko din kasto chha?
+Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?	Hello, kasari hunuhunchha?
+Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?	Namaste, k cha?
+Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?	Hi, kasto chha?
+Good morning! Sab thikai chha, tapai lai ke chahincha?	Good morning, k cha?
+Good afternoon! Sab thikai chha, tapai lai ke chahincha?	Good afternoon, k cha?
+Good evening! Sab thikai chha, tapai lai ke chahincha?	Good evening, k cha?
+Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?	Hi, sab thikai chha?
+Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?	Namaste, sab thikai chha?
+Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?	Hello, sab thikai chha?
+Sanchai chhu, tapai lai kasari madat garna sakchu?	Sanchai hunuhunchha?
+Sab thikai chha, tapai lai kasari madat garna sakchu?	K cha tapai?
+Din ramro bhayo, tapai lai ke chahincha?	Kasto din bhayo?
+Din ramro chha, tapai lai kasari madat garna sakchu?	Tapai ko din kasto chha?
+Good day! Ma sanchai chhu, tapai lai ke chahincha?	Good day, kasari chha?
+Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?	Namaste, sab thikai chha?
+Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?	Hello, tapai kasto chha?
+Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?	Hi, kasari chha?
+Good morning! Ma thikai chhu, tapai lai ke chahincha?	Good morning, tapai lai kasto chha?
+Good afternoon! Ma thikai chhu, tapai lai ke chahincha?	Good afternoon, tapai lai kasto chha?
+Good evening! Ma thikai chhu, tapai lai ke chahincha?	Good evening, tapai lai kasto chha?
+Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?	Hi, sab thikai chha?
+Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?	Namaste, sab thikai chha?
+Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?	Hello, sab thikai chha?
+Sanchai chhu, tapai lai kasari madat garna sakchu?	Sanchai hunuhunchha?
+Sab thikai chha, tapai lai kasari madat garna sakchu?	K cha tapai?
+Din ramro bhayo, tapai lai ke chahincha?	Kasto din bhayo?
+Din ramro chha, tapai lai kasari madat garna sakchu?	Tapai ko din kasto chha?
+Good day! Ma sanchai chhu, tapai lai ke chahincha?	Good day, kasari chha?
+Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?	Namaste, sab thikai chha?
+Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?	Hello, tapai kasto chha?
+Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?	Hi, kasari chha?
+Good morning! Ma thikai chhu, tapai lai ke chahincha?	Good morning, tapai lai kasto chha?
+Good afternoon! Ma thikai chhu, tapai lai ke chahincha?	Good afternoon, tapai lai kasto chha?
+Good evening! Ma thikai chhu, tapai lai ke chahincha?	Good evening, tapai lai kasto chha?
+Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?	Hi, sab thikai chha?
+Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?	Namaste, sab thikai chha?
+Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?	Hello, sab thikai chha?
+Sanchai chhu, tapai lai kasari madat garna sakchu?	Sanchai hunuhunchha?
+Sab thikai chha, tapai lai kasari madat garna sakchu?	K cha tapai?
+Din ramro bhayo, tapai lai ke chahincha?	Kasto din bhayo?
+Din ramro chha, tapai lai kasari madat garna sakchu?	Tapai ko din kasto chha?
+Good day! Ma sanchai chhu, tapai lai ke chahincha?	Good day, kasari chha?
+Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?	Namaste, sab thikai chha?
+Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?	Hello, tapai kasto chha?
+Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?	Hi, kasari chha?
+Good morning! Ma thikai chhu, tapai lai ke chahincha?	Good morning, tapai lai kasto chha?
+Good afternoon! Ma thikai chhu, tapai lai ke chahincha?	Good afternoon, tapai lai kasto chha?
+Good evening! Ma thikai chhu, tapai lai ke chahincha?	Good evening, tapai lai kasto chha?
+Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?	Hi, sab thikai chha?
+Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?	Namaste, sab thikai chha?
+Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?	Hello, sab thikai chha?
+Sanchai chhu, tapai lai kasari madat garna sakchu?	Sanchai hunuhunchha?
+Sab thikai chha, tapai lai kasari madat garna sakchu?	K cha tapai?
+Din ramro bhayo, tapai lai ke chahincha?	Kasto din bhayo?
+Din ramro chha, tapai lai kasari madat garna sakchu?	Tapai ko din kasto chha?
+Good day! Ma sanchai chhu, tapai lai ke chahincha?	Good day, kasari chha?
+Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?	Namaste, sab thikai chha?
+Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?	Hello, tapai kasto chha?
+Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?	Hi, kasari chha?
+Good morning! Ma thikai chhu, tapai lai ke chahincha?	Good morning, tapai lai kasto chha?
+Good afternoon! Ma thikai chhu, tapai lai ke chahincha?	Good afternoon, tapai lai kasto chha?
+Good evening! Ma thikai chhu, tapai lai ke chahincha?	Good evening, tapai lai kasto chha?
+Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?	Hi, sab thikai chha?
+Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?	Namaste, sab thikai chha?
+Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?	Hello, sab thikai chha?
+Sanchai chhu, tapai lai kasari madat garna sakchu?	Sanchai hunuhunchha?
+Sab thikai chha, tapai lai kasari madat garna sakchu?	K cha tapai?
+Din ramro bhayo, tapai lai ke chahincha?	Kasto din bhayo?
+Din ramro chha, tapai lai kasari madat garna sakchu?	Tapai ko din kasto chha?
+Good day! Ma sanchai chhu, tapai lai ke chahincha?	Good day, kasari chha?
+Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?	Namaste, sab thikai chha?
+Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?	Hello, tapai kasto chha?
+Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?	Hi, kasari chha?
+Good morning! Ma thikai chhu, tapai lai ke chahincha?	Good morning, tapai lai kasto chha?
+Good afternoon! Ma thikai chhu, tapai lai ke chahincha?	Good afternoon, tapai lai kasto chha?
+Good evening! Ma thikai chhu, tapai lai ke chahincha?	Good evening, tapai lai kasto chha?
+Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?	Hi, sab thikai chha?
+Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?	Namaste, sab thikai chha?
+Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?	Hello, sab thikai chha?
+Sanchai chhu, tapai lai kasari madat garna sakchu?	Sanchai hunuhunchha?
+Sab thikai chha, tapai lai kasari madat garna sakchu?	K cha tapai?
+Din ramro bhayo, tapai lai ke chahincha?	Kasto din bhayo?
+Din ramro chha, tapai lai kasari madat garna sakchu?	Tapai ko din kasto chha?
+Good day! Ma sanchai chhu, tapai lai ke chahincha?	Good day, kasari chha?
+Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?	Namaste, sab thikai chha?
+Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?	Hello, tapai kasto chha?
+Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?	Hi, kasari chha?
+Good morning! Ma thikai chhu, tapai lai ke chahincha?	Good morning, tapai lai kasto chha?
+Good afternoon! Ma thikai chhu, tapai lai ke chahincha?	Good afternoon, tapai lai kasto chha?
+Good evening! Ma thikai chhu, tapai lai ke chahincha?	Good evening, tapai lai kasto chha?
+Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?	Hi, sab thikai chha?
+Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?	Namaste, sab thikai chha?
+Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?	Hello, sab thikai chha?
+Sanchai chhu, tapai lai kasari madat garna sakchu?	Sanchai hunuhunchha?
+Sab thikai chha, tapai lai kasari madat garna sakchu?	K cha tapai?
+Din ramro bhayo, tapai lai ke chahincha?	Kasto din bhayo?
+Din ramro chha, tapai lai kasari madat garna sakchu?	Tapai ko din kasto chha?
+Good day! Ma sanchai chhu, tapai lai ke chahincha?	Good day, kasari chha?
+Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?	Namaste, sab thikai chha?
+Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?	Hello, tapai kasto chha?
+Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?	Hi, kasari chha?
+Good morning! Ma thikai chhu, tapai lai ke chahincha?	Good morning, tapai lai kasto chha?
+Good afternoon! Ma thikai chhu, tapai lai ke chahincha?	Good afternoon, tapai lai kasto chha?
+Good evening! Ma thikai chhu, tapai lai ke chahincha?	Good evening, tapai lai kasto chha?
+Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?	Hi, sab thikai chha?
+Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?	Namaste, sab thikai chha?
+Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?	Hello, sab thikai chha?
+Sanchai chhu, tapai lai kasari madat garna sakchu?	Sanchai hunuhunchha?
+Sab thikai chha, tapai lai kasari madat garna sakchu?	K cha tapai?
+Din ramro bhayo, tapai lai ke chahincha?	Kasto din bhayo?
+Din ramro chha, tapai lai kasari madat garna sakchu?	Tapai ko din kasto chha?
+Good day! Ma sanchai chhu, tapai lai ke chahincha?	Good day, kasari chha?
+Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?	Namaste, sab thikai chha?
+Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?	Hello, tapai kasto chha?
+Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?	Hi, kasari chha?
+Good morning! Ma thikai chhu, tapai lai ke chahincha?	Good morning, tapai lai kasto chha?
+Good afternoon! Ma thikai chhu, tapai lai ke chahincha?	Good afternoon, tapai lai kasto chha?
+Good evening! Ma thikai chhu, tapai lai ke chahincha?	Good evening, tapai lai kasto chha?
+Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?	Hi, sab thikai chha?
+Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?	Namaste, sab thikai chha?
+Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?	Hello, sab thikai chha?
+Sanchai chhu, tapai lai kasari madat garna sakchu?	Sanchai hunuhunchha?
+Sab thikai chha, tapai lai kasari madat garna sakchu?	K cha tapai?
+Din ramro bhayo, tapai lai ke chahincha?	Kasto din bhayo?
+Din ramro chha, tapai lai kasari madat garna sakchu?	Tapai ko din kasto chha?
+Good day! Ma sanchai chhu, tapai lai ke chahincha?	Good day, kasari chha?
+Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?	Namaste, sab thikai chha?
+Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?	Hello, tapai kasto chha?
+Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?	Hi, kasari chha?
+Good morning! Ma thikai chhu, tapai lai ke chahincha?	Good morning, tapai lai kasto chha?
+Good afternoon! Ma thikai chhu, tapai lai ke chahincha?	Good afternoon, tapai lai kasto chha?
+Good evening! Ma thikai chhu, tapai lai ke chahincha?	Good evening, tapai lai kasto chha?
+Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?	Hi, sab thikai chha?
+Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?	Namaste, sab thikai chha?
+Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?	Hello, sab thikai chha?
+Sanchai chhu, tapai lai kasari madat garna sakchu?	Sanchai hunuhunchha?
+Sab thikai chha, tapai lai kasari madat garna sakchu?	K cha tapai?
+Din ramro bhayo, tapai lai ke chahincha?	Kasto din bhayo?
+Din ramro chha, tapai lai kasari madat garna sakchu?	Tapai ko din kasto chha?
+Good day! Ma sanchai chhu, tapai lai ke chahincha?	Good day, kasari chha?
+Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?	Namaste, sab thikai chha?
+Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?	Hello, tapai kasto chha?
+Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?	Hi, kasari chha?
+Good morning! Ma thikai chhu, tapai lai ke chahincha?	Good morning, tapai lai kasto chha?
+Good afternoon! Ma thikai chhu, tapai lai ke chahincha?	Good afternoon, tapai lai kasto chha?
+Good evening! Ma thikai chhu, tapai lai ke chahincha?	Good evening, tapai lai kasto chha?
+Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?	Hi, sab thikai chha?
+Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?	Namaste, sab thikai chha?
+Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?	Hello, sab thikai chha?
+Sanchai chhu, tapai lai kasari madat garna sakchu?	Sanchai hunuhunchha?
+Sab thikai chha, tapai lai kasari madat garna sakchu?	K cha tapai?
+Din ramro bhayo, tapai lai ke chahincha?	Kasto din bhayo?
+Din ramro chha, tapai lai kasari madat garna sakchu?	Tapai ko din kasto chha?
+Good day! Ma sanchai chhu, tapai lai ke chahincha?	Good day, kasari chha?
+Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?	Namaste, sab thikai chha?
+Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?	Hello, tapai kasto chha?
+Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?	Hi, kasari chha?
+Good morning! Ma thikai chhu, tapai lai ke chahincha?	Good morning, tapai lai kasto chha?
+Good afternoon! Ma thikai chhu, tapai lai ke chahincha?	Good afternoon, tapai lai kasto chha?
+Good evening! Ma thikai chhu, tapai lai ke chahincha?	Good evening, tapai lai kasto chha?
+Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?	Hi, sab thikai chha?
+Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?	Namaste, sab thikai chha?
+Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?	Hello, sab thikai chha?
+Sanchai chhu, tapai lai kasari madat garna sakchu?	Sanchai hunuhunchha?
+Sab thikai chha, tapai lai kasari madat garna sakchu?	K cha tapai?
+Din ramro bhayo, tapai lai ke chahincha?	Kasto din bhayo?
+Din ramro chha, tapai lai kasari madat garna sakchu?	Tapai ko din kasto chha?
+Good day! Ma sanchai chhu, tapai lai ke chahincha?	Good day, kasari chha?
+Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?	Namaste, sab thikai chha?
+Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?	Hello, tapai kasto chha?
+Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?	Hi, kasari chha?
+Good morning! Ma thikai chhu, tapai lai ke chahincha?	Good morning, tapai lai kasto chha?
+Good afternoon! Ma thikai chhu, tapai lai ke chahincha?	Good afternoon, tapai lai kasto chha?
+Good evening! Ma thikai chhu, tapai lai ke chahincha?	Good evening, tapai lai kasto chha?
+Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?	Hi, sab thikai chha?
+Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?	Namaste, sab thikai chha?
+Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?	Hello, sab thikai chha?
+Sanchai chhu, tapai lai kasari madat garna sakchu?	Sanchai hunuhunchha?
+Sab thikai chha, tapai lai kasari madat garna sakchu?	K cha tapai?
+Din ramro bhayo, tapai lai ke chahincha?	Kasto din bhayo?
+Din ramro chha, tapai lai kasari madat garna sakchu?	Tapai ko din kasto chha?
+Good day! Ma sanchai chhu, tapai lai ke chahincha?	Good day, kasari chha?
+Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?	Namaste, sab thikai chha?
+Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?	Hello, tapai kasto chha?
+Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?	Hi, kasari chha?
+Good morning! Ma thikai chhu, tapai lai ke chahincha?	Good morning, tapai lai kasto chha?
+Good afternoon! Ma thikai chhu, tapai lai ke chahincha?	Good afternoon, tapai lai kasto chha?
+Good evening! Ma thikai chhu, tapai lai ke chahincha?	Good evening, tapai lai kasto chha?
+Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?	Hi, sab thikai chha?
+Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?	Namaste, sab thikai chha?
+Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?	Hello, sab thikai chha?
+Sanchai chhu, tapai lai kasari madat garna sakchu?	Sanchai hunuhunchha?
+Sab thikai chha, tapai lai kasari madat garna sakchu?	K cha tapai?
+Din ramro bhayo, tapai lai ke chahincha?	Kasto din bhayo?
+Din ramro chha, tapai lai kasari madat garna sakchu?	Tapai ko din kasto chha?
+Good day! Ma sanchai chhu, tapai lai ke chahincha?	Good day, kasari chha?
+Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?	Namaste, sab thikai chha?
+Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?	Hello, tapai kasto chha?
+Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?	Hi, kasari chha?
+Good morning! Ma thikai chhu, tapai lai ke chahincha?	Good morning, tapai lai kasto chha?
+Good afternoon! Ma thikai chhu, tapai lai ke chahincha?	Good afternoon, tapai lai kasto chha?
+Good evening! Ma thikai chhu, tapai lai ke chahincha?	Good evening, tapai lai kasto chha?
+Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?	Hi, sab thikai chha?
+Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?	Namaste, sab thikai chha?
+Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?	Hello, sab thikai chha?
+Sanchai chhu, tapai lai kasari madat garna sakchu?	Sanchai hunuhunchha?
+Sab thikai chha, tapai lai kasari madat garna sakchu?	K cha tapai?
+Din ramro bhayo, tapai lai ke chahincha?	Kasto din bhayo?
+Din ramro chha, tapai lai kasari madat garna sakchu?	Tapai ko din kasto chha?
+Good day! Ma sanchai chhu, tapai lai ke chahincha?	Good day, kasari chha?
+Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?	Namaste, sab thikai chha?
+Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?	Hello, tapai kasto chha?
+Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?	Hi, kasari chha?
+Good morning! Ma thikai chhu, tapai lai ke chahincha?	Good morning, tapai lai kasto chha?
+Good afternoon! Ma thikai chhu, tapai lai ke chahincha?	Good afternoon, tapai lai kasto chha?
+Good evening! Ma thikai chhu, tapai lai ke chahincha?	Good evening, tapai lai kasto chha?
+Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?	Hi, sab thikai chha?
+Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?	Namaste, sab thikai chha?
+Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?	Hello, sab thikai chha?
+Sanchai chhu, tapai lai kasari madat garna sakchu?	Sanchai hunuhunchha?
+Sab thikai chha, tapai lai kasari madat garna sakchu?	K cha tapai?
+Din ramro bhayo, tapai lai ke chahincha?	Kasto din bhayo?
+Din ramro chha, tapai lai kasari madat garna sakchu?	Tapai ko din kasto chha?
+Good day! Ma sanchai chhu, tapai lai ke chahincha?	Good day, kasari chha?
+Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?	Namaste, sab thikai chha?
+Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?	Hello, tapai kasto chha?
+Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?	Hi, kasari chha?
+Good morning! Ma thikai chhu, tapai lai ke chahincha?	Good morning, tapai lai kasto chha?
+Good afternoon! Ma thikai chhu, tapai lai ke chahincha?	Good afternoon, tapai lai kasto chha?
+Good evening! Ma thikai chhu, tapai lai ke chahincha?	Good evening, tapai lai kasto chha?
+Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?	Hi, sab thikai chha?
+Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?	Namaste, sab thikai chha?
+Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?	Hello, sab thikai chha?
+Sanchai chhu, tapai lai kasari madat garna sakchu?	Sanchai hunuhunchha?
+Sab thikai chha, tapai lai kasari madat garna sakchu?	K cha tapai?
+Din ramro bhayo, tapai lai ke chahincha?	Kasto din bhayo?
+Din ramro chha, tapai lai kasari madat garna sakchu?	Tapai ko din kasto chha?
+Good day! Ma sanchai chhu, tapai lai ke chahincha?	Good day, kasari chha?
+Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?	Namaste, sab thikai chha?
+Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?	Hello, tapai kasto chha?
+Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?	Hi, kasari chha?
+Good morning! Ma thikai chhu, tapai lai ke chahincha?	Good morning, tapai lai kasto chha?
+Good afternoon! Ma thikai chhu, tapai lai ke chahincha?	Good afternoon, tapai lai kasto chha?
+Good evening! Ma thikai chhu, tapai lai ke chahincha?	Good evening, tapai lai kasto chha?
+Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?	Hi, sab thikai chha?
+Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?	Namaste, sab thikai chha?
+Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?	Hello, sab thikai chha?
+Sanchai chhu, tapai lai kasari madat garna sakchu?	Sanchai hunuhunchha?
+Sab thikai chha, tapai lai kasari madat garna sakchu?	K cha tapai?
+Din ramro bhayo, tapai lai ke chahincha?	Kasto din bhayo?
+Din ramro chha, tapai lai kasari madat garna sakchu?	Tapai ko din kasto chha?
+Good day! Ma sanchai chhu, tapai lai ke chahincha?	Good day, kasari chha?
+Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?	Namaste, sab thikai chha?
+Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?	Hello, tapai kasto chha?
+Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?	Hi, kasari chha?
+Good morning! Ma thikai chhu, tapai lai ke chahincha?	Good morning, tapai lai kasto chha?
+Good afternoon! Ma thikai chhu, tapai lai ke chahincha?	Good afternoon, tapai lai kasto chha?
+Good evening! Ma thikai chhu, tapai lai ke chahincha?	Good evening, tapai lai kasto chha?
+Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?	Hi, sab thikai chha?
+Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?	Namaste, sab thikai chha?
+Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?	Hello, sab thikai chha?
+Sanchai chhu, tapai lai kasari madat garna sakchu?	Sanchai hunuhunchha?
+Sab thikai chha, tapai lai kasari madat garna sakchu?	K cha tapai?
+Din ramro bhayo, tapai lai ke chahincha?	Kasto din bhayo?
+Din ramro chha, tapai lai kasari madat garna sakchu?	Tapai ko din kasto chha?
+Good day! Ma sanchai chhu, tapai lai ke chahincha?	Good day, kasari chha?
+Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?	Namaste, sab thikai chha?
+Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?	Hello, tapai kasto chha?
+Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?	Hi, kasari chha?
+Good morning! Ma thikai chhu, tapai lai ke chahincha?	Good morning, tapai lai kasto chha?
+Good afternoon! Ma thikai chhu, tapai lai ke chahincha?	Good afternoon, tapai lai kasto chha?
+Good evening! Ma thikai chhu, tapai lai ke chahincha?	Good evening, tapai lai kasto chha?
+Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?	Hi, sab thikai chha?
+Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?	Namaste, sab thikai chha?
+Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?	Hello, sab thikai chha?
+Sanchai chhu, tapai lai kasari madat garna sakchu?	Sanchai hunuhunchha?
+Sab thikai chha, tapai lai kasari madat garna sakchu?	K cha tapai?
+Din ramro bhayo, tapai lai ke chahincha?	Kasto din bhayo?
+Din ramro chha, tapai lai kasari madat garna sakchu?	Tapai ko din kasto chha?
+Good day! Ma sanchai chhu, tapai lai ke chahincha?	Good day, kasari chha?
+Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?	Namaste, sab thikai chha?
+Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?	Hello, tapai kasto chha?
+Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?	Hi, kasari chha?
+Good morning! Ma thikai chhu, tapai lai ke chahincha?	Good morning, tapai lai kasto chha?
+Good afternoon! Ma thikai chhu, tapai lai ke chahincha?	Good afternoon, tapai lai kasto chha?
+Good evening! Ma thikai chhu, tapai lai ke chahincha?	Good evening, tapai lai kasto chha?
+Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?	Hi, sab thikai chha?
+Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?	Namaste, sab thikai chha?
+Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?	Hello, sab thikai chha?
+Sanchai chhu, tapai lai kasari madat garna sakchu?	Sanchai hunuhunchha?
+Sab thikai chha, tapai lai kasari madat garna sakchu?	K cha tapai?
+Din ramro bhayo, tapai lai ke chahincha?	Kasto din bhayo?
+Din ramro chha, tapai lai kasari madat garna sakchu?	Tapai ko din kasto chha?
+Good day! Ma sanchai chhu, tapai lai ke chahincha?	Good day, kasari chha?
+Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?	Namaste, sab thikai chha?
+Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?	Hello, tapai kasto chha?
+Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?	Hi, kasari chha?
+Good morning! Ma thikai chhu, tapai lai ke chahincha?	Good morning, tapai lai kasto chha?
+Good afternoon! Ma thikai chhu, tapai lai ke chahincha?	Good afternoon, tapai lai kasto chha?
+Good evening! Ma thikai chhu, tapai lai ke chahincha?	Good evening, tapai lai kasto chha?
+Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?	Hi, sab thikai chha?
+Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?	Namaste, sab thikai chha?
+Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?	Hello, sab thikai chha?
+Sanchai chhu, tapai lai kasari madat garna sakchu?	Sanchai hunuhunchha?
+Sab thikai chha, tapai lai kasari madat garna sakchu?	K cha tapai?
+Din ramro bhayo, tapai lai ke chahincha?	Kasto din bhayo?
+Din ramro chha, tapai lai kasari madat garna sakchu?	Tapai ko din kasto chha?
+Good day! Ma sanchai chhu, tapai lai ke chahincha?	Good day, kasari chha?
+Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?	Namaste, sab thikai chha?
+Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?	Hello, tapai kasto chha?
+Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?	Hi, kasari chha?
+Good morning! Ma thikai chhu, tapai lai ke chahincha?	Good morning, tapai lai kasto chha?
+Good afternoon! Ma thikai chhu, tapai lai ke chahincha?	Good afternoon, tapai lai kasto chha?
+Good evening! Ma thikai chhu, tapai lai ke chahincha?	Good evening, tapai lai kasto chha?
+Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?	Hi, sab thikai chha?
+Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?	Namaste, sab thikai chha?
+Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?	Hello, sab thikai chha?
+Sanchai chhu, tapai lai kasari madat garna sakchu?	Sanchai hunuhunchha?
+Sab thikai chha, tapai lai kasari madat garna sakchu?	K cha tapai?
+Din ramro bhayo, tapai lai ke chahincha?	Kasto din bhayo?
+Din ramro chha, tapai lai kasari madat garna sakchu?	Tapai ko din kasto chha?
+Good day! Ma sanchai chhu, tapai lai ke chahincha?	Good day, kasari chha?
+Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?	Namaste, sab thikai chha?
+Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?	Hello, tapai kasto chha?
+Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?	Hi, kasari chha?
+Good morning! Ma thikai chhu, tapai lai ke chahincha?	Good morning, tapai lai kasto chha?
+Good afternoon! Ma thikai chhu, tapai lai ke chahincha?	Good afternoon, tapai lai kasto chha?
+Good evening! Ma thikai chhu, tapai lai ke chahincha?	Good evening, tapai lai kasto chha?
+Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?	Hi, sab thikai chha?
+Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?	Namaste, sab thikai chha?
+Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?	Hello, sab thikai chha?
+Sanchai chhu, tapai lai kasari madat garna sakchu?	Sanchai hunuhunchha?
+Sab thikai chha, tapai lai kasari madat garna sakchu?	K cha tapai?
+Din ramro bhayo, tapai lai ke chahincha?	Kasto din bhayo?
+Din ramro chha, tapai lai kasari madat garna sakchu?	Tapai ko din kasto chha?
+Good day! Ma sanchai chhu, tapai lai ke chahincha?	Good day, kasari chha?
+Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?	Namaste, sab thikai chha?
+Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?	Hello, tapai kasto chha?
+Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?	Hi, kasari chha?
+Good morning! Ma thikai chhu, tapai lai ke chahincha?	Good morning, tapai lai kasto chha?
+Good afternoon! Ma thikai chhu, tapai lai ke chahincha?	Good afternoon, tapai lai kasto chha?
+Good evening! Ma thikai chhu, tapai lai ke chahincha?	Good evening, tapai lai kasto chha?
+Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?	Hi, sab thikai chha?
+Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?	Namaste, sab thikai chha?
+Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?	Hello, sab thikai chha?
+Sanchai chhu, tapai lai kasari madat garna sakchu?	Sanchai hunuhunchha?
+Sab thikai chha, tapai lai kasari madat garna sakchu?	K cha tapai?
+Din ramro bhayo, tapai lai ke chahincha?	Kasto din bhayo?
+Din ramro chha, tapai lai kasari madat garna sakchu?	Tapai ko din kasto chha?
+Good day! Ma sanchai chhu, tapai lai ke chahincha?	Good day, kasari chha?
+Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?	Namaste, sab thikai chha?
+Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?	Hello, tapai kasto chha?
+Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?	Hi, kasari chha?
+Good morning! Ma thikai chhu, tapai lai ke chahincha?	Good morning, tapai lai kasto chha?
+Good afternoon! Ma thikai chhu, tapai lai ke chahincha?	Good afternoon, tapai lai kasto chha?
+Good evening! Ma thikai chhu, tapai lai ke chahincha?	Good evening, tapai lai kasto chha?
+Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?	Hi, sab thikai chha?
+Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?	Namaste, sab thikai chha?
+Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?	Hello, sab thikai chha?
+Sanchai chhu, tapai lai kasari madat garna sakchu?	Sanchai hunuhunchha?
+Sab thikai chha, tapai lai kasari madat garna sakchu?	K cha tapai?
+Din ramro bhayo, tapai lai ke chahincha?	Kasto din bhayo?
+Din ramro chha, tapai lai kasari madat garna sakchu?	Tapai ko din kasto chha?
+Good day! Ma sanchai chhu, tapai lai ke chahincha?	Good day, kasari chha?
+Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?	Namaste, sab thikai chha?
+Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?	Hello, tapai kasto chha?
+Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?	Hi, kasari chha?
+Good morning! Ma thikai chhu, tapai lai ke chahincha?	Good morning, tapai lai kasto chha?
+Good afternoon! Ma thikai chhu, tapai lai ke chahincha?	Good afternoon, tapai lai kasto chha?
+Good evening! Ma thikai chhu, tapai lai ke chahincha?	Good evening, tapai lai kasto chha?
+Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?	Hi, sab thikai chha?
+Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?	Namaste, sab thikai chha?
+Hello! Ma tapai ko madat kasari garna sakchu?	Hello
+Hello! Ma tapai ko madat kasari garna sakchu?	Hello
+Hello! Ma tapai ko lagi ke garna sakchu?	Hello
+Hello! Ma tapai lai kasari sahayog garna sakchu?	Hello
+Hello! Ke chahincha? Ma madat garna tayar chhu.	Hello
+Hello! Ma kasari sahayog garna sakchu?	Hello
+Hello! Ma ke garna sakchu tapai ko lagi?	Hello
+Hello! Tapai ko lagi ma k garna sakchu?	Hello
+Hi! Ma tapai ko madat kasari garna sakchu?	Hi
+Hi! Ma tapai ko lagi ke garna sakchu?	Hi
+Hi! Ma tapai lai kasari sahayog garna sakchu?	Hi
+Hi! Ke chahincha? Ma madat garna tayar chhu.	Hi
+Hi! Ma kasari sahayog garna sakchu?	Hi
+Hi! Ma ke garna sakchu tapai ko lagi?	Hi
+Hi! Tapai ko lagi ma k garna sakchu?	Hi
+Hello! Ma tapai ko madat kasari garna sakchu?	Hello
+Hello! Ma tapai ko lagi ke garna sakchu?	Hello
+Hello! Ma tapai lai kasari sahayog garna sakchu?	Hello
+Hello! Ke chahincha? Ma madat garna tayar chhu.	Hello
+Hello! Ma kasari sahayog garna sakchu?	Hello
+Hello! Ma ke garna sakchu tapai ko lagi?	Hello
+Hello! Tapai ko lagi ma k garna sakchu?	Hello
+Hi! Ma tapai ko madat kasari garna sakchu?	Hi
+Hi! Ma tapai ko lagi ke garna sakchu?	Hi
+Hi! Ma tapai lai kasari sahayog garna sakchu?	Hi
+Hi! Ke chahincha? Ma madat garna tayar chhu.	Hi
+Hi! Ma kasari sahayog garna sakchu?	Hi
+Hi! Ma ke garna sakchu tapai ko lagi?	Hi
+Hi! Tapai ko lagi ma k garna sakchu?	Hi
+Namaste! Ma tapai ko madat kasari garna sakchu?	Namaste
+Namaste! Ma tapai ko lagi ke garna sakchu?	Namaste
+Namaste! Ma tapai lai kasari sahayog garna sakchu?	Namaste
+Namaste! Ke chahincha? Ma madat garna tayar chhu.	Namaste
+Namaste! Ma kasari sahayog garna sakchu?	Namaste
+Namaste! Ma ke garna sakchu tapai ko lagi?	Namaste
+Namaste! Tapai ko lagi ma k garna sakchu?	Namaste
+Hello! Ma tapai ko madat kasari garna sakchu?	Hello
+Hello! Ma tapai ko lagi ke garna sakchu?	Hello
+Hello! Ma tapai lai kasari sahayog garna sakchu?	Hello
+Hello! Ke chahincha? Ma madat garna tayar chhu.	Hello
+Hello! Ma kasari sahayog garna sakchu?	Hello
+Hello! Ma ke garna sakchu tapai ko lagi?	Hello
+Hello! Tapai ko lagi ma k garna sakchu?	Hello
+Hi! Ma tapai ko madat kasari garna sakchu?	Hi
+Hi! Ma tapai ko lagi ke garna sakchu?	Hi
+Hi! Ma tapai lai kasari sahayog garna sakchu?	Hi
+Hi! Ke chahincha? Ma madat garna tayar chhu.	Hi
+Hi! Ma kasari sahayog garna sakchu?	Hi
+Hi! Ma ke garna sakchu tapai ko lagi?	Hi
+Hi! Tapai ko lagi ma k garna sakchu?	Hi
+Namaste! Ma tapai ko madat kasari garna sakchu?	Namaste
+Namaste! Ma tapai ko lagi ke garna sakchu?	Namaste
+Namaste! Ma tapai lai kasari sahayog garna sakchu?	Namaste
+Namaste! Ke chahincha? Ma madat garna tayar chhu.	Namaste
+Namaste! Ma kasari sahayog garna sakchu?	Namaste
+Namaste! Ma ke garna sakchu tapai ko lagi?	Namaste
+Namaste! Tapai ko lagi ma k garna sakchu?	Namaste
+Hello! Ma tapai ko madat kasari garna sakchu hola.	Hello
+Hello! Ma tapai ko madat kasari garna sakchu?	Hello
+Hello! Ma tapai ko lagi ke garna sakchu?	Hello
+Hello! Ma tapai lai kasari sahayog garna sakchu?	Hello
+Hello! Ke chahincha? Ma madat garna tayar chhu.	Hello
+Hello! Ma kasari sahayog garna sakchu?	Hello
+Hello! Ma ke garna sakchu tapai ko lagi?	Hello
+Hello! Tapai ko lagi ma k garna sakchu?	Hello
+Hi! Ma tapai ko madat kasari garna sakchu?	Hi
+Hi! Ma tapai ko lagi ke garna sakchu?	Hi
+Hi! Ma tapai lai kasari sahayog garna sakchu?	Hi
+Hi! Ke chahincha? Ma madat garna tayar chhu.	Hi
+Hi! Ma kasari sahayog garna sakchu?	Hi
+Hi! Ma ke garna sakchu tapai ko lagi?	Hi
+Hi! Tapai ko lagi ma k garna sakchu?	Hi
+Namaste! Ma tapai ko madat kasari garna sakchu?	Namaste
+Namaste! Ma tapai ko lagi ke garna sakchu?	Namaste
+Namaste! Ma tapai lai kasari sahayog garna sakchu?	Namaste
+Namaste! Ke chahincha? Ma madat garna tayar chhu.	Namaste
+Namaste! Ma kasari sahayog garna sakchu?	Namaste
+Namaste! Ma ke garna sakchu tapai ko lagi?	Namaste
+Namaste! Tapai ko lagi ma k garna sakchu?	Namaste
+Hello! Ma tapai ko madat kasari garna sakchu?	Hello
+Hello! Ma tapai ko lagi ke garna sakchu?	Hello
+Hello! Ma tapai lai kasari sahayog garna sakchu?	Hello
+Hello! Ke chahincha? Ma madat garna tayar chhu.	Hello
+Hello! Ma kasari sahayog garna sakchu?	Hello
+Hello! Ma ke garna sakchu tapai ko lagi?	Hello
+Hello! Tapai ko lagi ma k garna sakchu?	Hello
+Hi! Ma tapai ko madat kasari garna sakchu?	Hi
+Hi! Ma tapai ko lagi ke garna sakchu?	Hi

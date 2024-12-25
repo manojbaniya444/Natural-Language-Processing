@@ -1,0 +1,501 @@
+id,question,answer,intent
+1,Namaste,Namaste! Ma tapai lai kasari madat garna sakchu?,greetings
+2,Hello,Hello! Ma tapai ko lagi ke garna sakchu?,greetings
+3,K cha?,"Thikai chha, tapai lai kasari madat garna sakchu?",greetings
+4,Kasto chha?,"Ma thikai chhu, tapai lai ke chahincha?",greetings
+5,Hi,Hi! Tapai lai ma ke madat garna sakchu?,greetings
+6,Good morning,Good morning! Tapai ko lagi ma ke garna sakchu?,greetings
+7,Good afternoon,Good afternoon! Ma tapai lai kasari madat garna sakchu?,greetings
+8,Good evening,Good evening! Tapai ko lagi ma ke garna sakchu?,greetings
+9,Sanchai?,"Sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+10,K chha?,"Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+11,Ma tapai lai kasari madat garna sakchu?,Namaste! Tapai ko lagi ma ke garna sakchu?,greetings
+12,Ke chha k k?,"Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+13,Tapai lai ke cha?,"Sab thikai chha, tapai ko lagi ma ke garna sakchu?",greetings
+14,Tapai lai kasari madat garna sakchu?,Tapai lai k chahincha?,greetings
+15,Sanchai hunuhunchha?,"Sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+16,"Ma sanchai chhu, tapai?","Ma pani sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+17,Sab thikai chha?,"Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+18,Tapai lai ke chahincha?,Tapai ko lagi ma ke garna sakchu?,greetings
+19,Hello ma sanchai chhu,"Hello! Ma pani sanchai chhu, tapai lai ke chahincha?",greetings
+20,"Hi, kasari chha?","Ma sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+21,Namaskar,Namaskar! Ma tapai lai kasari madat garna sakchu?,greetings
+22,"Hello, kasari chha?","Thikai chha, tapai lai kasari madat garna sakchu?",greetings
+23,Kasto din bhayo?,"Din ramro bhayo, tapai lai kasari madat garna sakchu?",greetings
+24,Tapai ko din kasto bhayo?,"Mero din ramro bhayo, tapai lai ke chahincha?",greetings
+25,Good day,Good day! Tapai ko lagi ma ke garna sakchu?,greetings
+26,"Namaste, kasto chha?","Namaste! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+27,"Hello, tapai lai kasari madat garna sakchu?",Hello! Tapai ko lagi ma ke garna sakchu?,greetings
+28,Sanchai hunu hunchha?,"Sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+29,K cha? Sabai thikai?,"Thikai chha, tapai lai kasari madat garna sakchu?",greetings
+30,"Hello, ma sanchai chhu","Hello! Ma pani sanchai chhu, tapai lai ke chahincha?",greetings
+31,Tapai kasto chha?,"Ma sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+32,Namaste! Ma sanchai chhu,"Namaste! Ma pani sanchai chhu, tapai lai ke chahincha?",greetings
+33,"Good morning, kasari chha?","Good morning! Ma sanchai chhu, tapai lai ke chahincha?",greetings
+34,"Good afternoon, kasari chha?","Good afternoon! Ma sanchai chhu, tapai lai ke chahincha?",greetings
+35,"Good evening, kasari chha?","Good evening! Ma sanchai chhu, tapai lai ke chahincha?",greetings
+36,"Hi, ma thikai chhu","Hi! Ma pani thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+37,"Namaste, tapai lai kasto chha?","Namaste! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+38,Tapai sanchai hunuhunchha?,"Sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+39,Tapai kasto chha aaj?,"Ma thikai chhu, tapai lai ke chahincha?",greetings
+40,Tapai ko din kasto chha?,"Din ramro chha, tapai lai kasari madat garna sakchu?",greetings
+41,"Hello, kasari hunuhunchha?","Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+42,"Namaste, k cha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+43,"Hi, kasto chha?","Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+44,"Good morning, k cha?","Good morning! Sab thikai chha, tapai lai ke chahincha?",greetings
+45,"Good afternoon, k cha?","Good afternoon! Sab thikai chha, tapai lai ke chahincha?",greetings
+46,"Good evening, k cha?","Good evening! Sab thikai chha, tapai lai ke chahincha?",greetings
+47,"Hi, sab thikai chha?","Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+48,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+49,"Hello, sab thikai chha?","Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+50,Sanchai hunuhunchha?,"Sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+51,K cha tapai?,"Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+52,Kasto din bhayo?,"Din ramro bhayo, tapai lai ke chahincha?",greetings
+53,Tapai ko din kasto chha?,"Din ramro chha, tapai lai kasari madat garna sakchu?",greetings
+54,"Good day, kasari chha?","Good day! Ma sanchai chhu, tapai lai ke chahincha?",greetings
+55,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+56,"Hello, tapai kasto chha?","Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+57,"Hi, kasari chha?","Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+58,"Good morning, tapai lai kasto chha?","Good morning! Ma thikai chhu, tapai lai ke chahincha?",greetings
+59,"Good afternoon, tapai lai kasto chha?","Good afternoon! Ma thikai chhu, tapai lai ke chahincha?",greetings
+60,"Good evening, tapai lai kasto chha?","Good evening! Ma thikai chhu, tapai lai ke chahincha?",greetings
+61,"Hi, sab thikai chha?","Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+62,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+63,"Hello, sab thikai chha?","Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+64,Sanchai hunuhunchha?,"Sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+65,K cha tapai?,"Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+66,Kasto din bhayo?,"Din ramro bhayo, tapai lai ke chahincha?",greetings
+67,Tapai ko din kasto chha?,"Din ramro chha, tapai lai kasari madat garna sakchu?",greetings
+68,"Good day, kasari chha?","Good day! Ma sanchai chhu, tapai lai ke chahincha?",greetings
+69,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+70,"Hello, tapai kasto chha?","Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+71,"Hi, kasari chha?","Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+72,"Good morning, tapai lai kasto chha?","Good morning! Ma thikai chhu, tapai lai ke chahincha?",greetings
+73,"Good afternoon, tapai lai kasto chha?","Good afternoon! Ma thikai chhu, tapai lai ke chahincha?",greetings
+74,"Good evening, tapai lai kasto chha?","Good evening! Ma thikai chhu, tapai lai ke chahincha?",greetings
+75,"Hi, sab thikai chha?","Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+76,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+77,"Hello, sab thikai chha?","Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+78,Sanchai hunuhunchha?,"Sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+79,K cha tapai?,"Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+80,Kasto din bhayo?,"Din ramro bhayo, tapai lai ke chahincha?",greetings
+81,Tapai ko din kasto chha?,"Din ramro chha, tapai lai kasari madat garna sakchu?",greetings
+82,"Good day, kasari chha?","Good day! Ma sanchai chhu, tapai lai ke chahincha?",greetings
+83,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+84,"Hello, tapai kasto chha?","Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+85,"Hi, kasari chha?","Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+86,"Good morning, tapai lai kasto chha?","Good morning! Ma thikai chhu, tapai lai ke chahincha?",greetings
+87,"Good afternoon, tapai lai kasto chha?","Good afternoon! Ma thikai chhu, tapai lai ke chahincha?",greetings
+88,"Good evening, tapai lai kasto chha?","Good evening! Ma thikai chhu, tapai lai ke chahincha?",greetings
+89,"Hi, sab thikai chha?","Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+90,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+91,"Hello, sab thikai chha?","Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+92,Sanchai hunuhunchha?,"Sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+93,K cha tapai?,"Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+94,Kasto din bhayo?,"Din ramro bhayo, tapai lai ke chahincha?",greetings
+95,Tapai ko din kasto chha?,"Din ramro chha, tapai lai kasari madat garna sakchu?",greetings
+96,"Good day, kasari chha?","Good day! Ma sanchai chhu, tapai lai ke chahincha?",greetings
+97,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+98,"Hello, tapai kasto chha?","Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+99,"Hi, kasari chha?","Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+100,"Good morning, tapai lai kasto chha?","Good morning! Ma thikai chhu, tapai lai ke chahincha?",greetings
+101,"Good afternoon, tapai lai kasto chha?","Good afternoon! Ma thikai chhu, tapai lai ke chahincha?",greetings
+102,"Good evening, tapai lai kasto chha?","Good evening! Ma thikai chhu, tapai lai ke chahincha?",greetings
+103,"Hi, sab thikai chha?","Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+104,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+105,"Hello, sab thikai chha?","Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+106,Sanchai hunuhunchha?,"Sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+107,K cha tapai?,"Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+108,Kasto din bhayo?,"Din ramro bhayo, tapai lai ke chahincha?",greetings
+109,Tapai ko din kasto chha?,"Din ramro chha, tapai lai kasari madat garna sakchu?",greetings
+110,"Good day, kasari chha?","Good day! Ma sanchai chhu, tapai lai ke chahincha?",greetings
+111,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+112,"Hello, tapai kasto chha?","Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+113,"Hi, kasari chha?","Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+114,"Good morning, tapai lai kasto chha?","Good morning! Ma thikai chhu, tapai lai ke chahincha?",greetings
+115,"Good afternoon, tapai lai kasto chha?","Good afternoon! Ma thikai chhu, tapai lai ke chahincha?",greetings
+116,"Good evening, tapai lai kasto chha?","Good evening! Ma thikai chhu, tapai lai ke chahincha?",greetings
+117,"Hi, sab thikai chha?","Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+118,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+119,"Hello, sab thikai chha?","Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+120,Sanchai hunuhunchha?,"Sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+121,K cha tapai?,"Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+122,Kasto din bhayo?,"Din ramro bhayo, tapai lai ke chahincha?",greetings
+123,Tapai ko din kasto chha?,"Din ramro chha, tapai lai kasari madat garna sakchu?",greetings
+124,"Good day, kasari chha?","Good day! Ma sanchai chhu, tapai lai ke chahincha?",greetings
+125,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+126,"Hello, tapai kasto chha?","Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+127,"Hi, kasari chha?","Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+128,"Good morning, tapai lai kasto chha?","Good morning! Ma thikai chhu, tapai lai ke chahincha?",greetings
+129,"Good afternoon, tapai lai kasto chha?","Good afternoon! Ma thikai chhu, tapai lai ke chahincha?",greetings
+130,"Good evening, tapai lai kasto chha?","Good evening! Ma thikai chhu, tapai lai ke chahincha?",greetings
+131,"Hi, sab thikai chha?","Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+132,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+133,"Hello, sab thikai chha?","Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+134,Sanchai hunuhunchha?,"Sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+135,K cha tapai?,"Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+136,Kasto din bhayo?,"Din ramro bhayo, tapai lai ke chahincha?",greetings
+137,Tapai ko din kasto chha?,"Din ramro chha, tapai lai kasari madat garna sakchu?",greetings
+138,"Good day, kasari chha?","Good day! Ma sanchai chhu, tapai lai ke chahincha?",greetings
+139,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+140,"Hello, tapai kasto chha?","Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+141,"Hi, kasari chha?","Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+142,"Good morning, tapai lai kasto chha?","Good morning! Ma thikai chhu, tapai lai ke chahincha?",greetings
+143,"Good afternoon, tapai lai kasto chha?","Good afternoon! Ma thikai chhu, tapai lai ke chahincha?",greetings
+144,"Good evening, tapai lai kasto chha?","Good evening! Ma thikai chhu, tapai lai ke chahincha?",greetings
+145,"Hi, sab thikai chha?","Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+146,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+147,"Hello, sab thikai chha?","Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+148,Sanchai hunuhunchha?,"Sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+149,K cha tapai?,"Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+150,Kasto din bhayo?,"Din ramro bhayo, tapai lai ke chahincha?",greetings
+151,Tapai ko din kasto chha?,"Din ramro chha, tapai lai kasari madat garna sakchu?",greetings
+152,"Good day, kasari chha?","Good day! Ma sanchai chhu, tapai lai ke chahincha?",greetings
+153,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+154,"Hello, tapai kasto chha?","Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+155,"Hi, kasari chha?","Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+156,"Good morning, tapai lai kasto chha?","Good morning! Ma thikai chhu, tapai lai ke chahincha?",greetings
+157,"Good afternoon, tapai lai kasto chha?","Good afternoon! Ma thikai chhu, tapai lai ke chahincha?",greetings
+158,"Good evening, tapai lai kasto chha?","Good evening! Ma thikai chhu, tapai lai ke chahincha?",greetings
+159,"Hi, sab thikai chha?","Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+160,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+161,"Hello, sab thikai chha?","Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+162,Sanchai hunuhunchha?,"Sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+163,K cha tapai?,"Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+164,Kasto din bhayo?,"Din ramro bhayo, tapai lai ke chahincha?",greetings
+165,Tapai ko din kasto chha?,"Din ramro chha, tapai lai kasari madat garna sakchu?",greetings
+166,"Good day, kasari chha?","Good day! Ma sanchai chhu, tapai lai ke chahincha?",greetings
+167,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+168,"Hello, tapai kasto chha?","Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+169,"Hi, kasari chha?","Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+170,"Good morning, tapai lai kasto chha?","Good morning! Ma thikai chhu, tapai lai ke chahincha?",greetings
+171,"Good afternoon, tapai lai kasto chha?","Good afternoon! Ma thikai chhu, tapai lai ke chahincha?",greetings
+172,"Good evening, tapai lai kasto chha?","Good evening! Ma thikai chhu, tapai lai ke chahincha?",greetings
+173,"Hi, sab thikai chha?","Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+174,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+175,"Hello, sab thikai chha?","Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+176,Sanchai hunuhunchha?,"Sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+177,K cha tapai?,"Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+178,Kasto din bhayo?,"Din ramro bhayo, tapai lai ke chahincha?",greetings
+179,Tapai ko din kasto chha?,"Din ramro chha, tapai lai kasari madat garna sakchu?",greetings
+180,"Good day, kasari chha?","Good day! Ma sanchai chhu, tapai lai ke chahincha?",greetings
+181,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+182,"Hello, tapai kasto chha?","Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+183,"Hi, kasari chha?","Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+184,"Good morning, tapai lai kasto chha?","Good morning! Ma thikai chhu, tapai lai ke chahincha?",greetings
+185,"Good afternoon, tapai lai kasto chha?","Good afternoon! Ma thikai chhu, tapai lai ke chahincha?",greetings
+186,"Good evening, tapai lai kasto chha?","Good evening! Ma thikai chhu, tapai lai ke chahincha?",greetings
+187,"Hi, sab thikai chha?","Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+188,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+189,"Hello, sab thikai chha?","Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+190,Sanchai hunuhunchha?,"Sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+191,K cha tapai?,"Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+192,Kasto din bhayo?,"Din ramro bhayo, tapai lai ke chahincha?",greetings
+193,Tapai ko din kasto chha?,"Din ramro chha, tapai lai kasari madat garna sakchu?",greetings
+194,"Good day, kasari chha?","Good day! Ma sanchai chhu, tapai lai ke chahincha?",greetings
+195,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+196,"Hello, tapai kasto chha?","Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+197,"Hi, kasari chha?","Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+198,"Good morning, tapai lai kasto chha?","Good morning! Ma thikai chhu, tapai lai ke chahincha?",greetings
+199,"Good afternoon, tapai lai kasto chha?","Good afternoon! Ma thikai chhu, tapai lai ke chahincha?",greetings
+200,"Good evening, tapai lai kasto chha?","Good evening! Ma thikai chhu, tapai lai ke chahincha?",greetings
+201,"Hi, sab thikai chha?","Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+202,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+203,"Hello, sab thikai chha?","Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+204,Sanchai hunuhunchha?,"Sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+205,K cha tapai?,"Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+206,Kasto din bhayo?,"Din ramro bhayo, tapai lai ke chahincha?",greetings
+207,Tapai ko din kasto chha?,"Din ramro chha, tapai lai kasari madat garna sakchu?",greetings
+208,"Good day, kasari chha?","Good day! Ma sanchai chhu, tapai lai ke chahincha?",greetings
+209,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+210,"Hello, tapai kasto chha?","Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+211,"Hi, kasari chha?","Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+212,"Good morning, tapai lai kasto chha?","Good morning! Ma thikai chhu, tapai lai ke chahincha?",greetings
+213,"Good afternoon, tapai lai kasto chha?","Good afternoon! Ma thikai chhu, tapai lai ke chahincha?",greetings
+214,"Good evening, tapai lai kasto chha?","Good evening! Ma thikai chhu, tapai lai ke chahincha?",greetings
+215,"Hi, sab thikai chha?","Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+216,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+217,"Hello, sab thikai chha?","Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+218,Sanchai hunuhunchha?,"Sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+219,K cha tapai?,"Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+220,Kasto din bhayo?,"Din ramro bhayo, tapai lai ke chahincha?",greetings
+221,Tapai ko din kasto chha?,"Din ramro chha, tapai lai kasari madat garna sakchu?",greetings
+222,"Good day, kasari chha?","Good day! Ma sanchai chhu, tapai lai ke chahincha?",greetings
+223,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+224,"Hello, tapai kasto chha?","Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+225,"Hi, kasari chha?","Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+226,"Good morning, tapai lai kasto chha?","Good morning! Ma thikai chhu, tapai lai ke chahincha?",greetings
+227,"Good afternoon, tapai lai kasto chha?","Good afternoon! Ma thikai chhu, tapai lai ke chahincha?",greetings
+228,"Good evening, tapai lai kasto chha?","Good evening! Ma thikai chhu, tapai lai ke chahincha?",greetings
+229,"Hi, sab thikai chha?","Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+230,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+231,"Hello, sab thikai chha?","Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+232,Sanchai hunuhunchha?,"Sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+233,K cha tapai?,"Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+234,Kasto din bhayo?,"Din ramro bhayo, tapai lai ke chahincha?",greetings
+235,Tapai ko din kasto chha?,"Din ramro chha, tapai lai kasari madat garna sakchu?",greetings
+236,"Good day, kasari chha?","Good day! Ma sanchai chhu, tapai lai ke chahincha?",greetings
+237,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+238,"Hello, tapai kasto chha?","Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+239,"Hi, kasari chha?","Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+240,"Good morning, tapai lai kasto chha?","Good morning! Ma thikai chhu, tapai lai ke chahincha?",greetings
+241,"Good afternoon, tapai lai kasto chha?","Good afternoon! Ma thikai chhu, tapai lai ke chahincha?",greetings
+242,"Good evening, tapai lai kasto chha?","Good evening! Ma thikai chhu, tapai lai ke chahincha?",greetings
+243,"Hi, sab thikai chha?","Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+244,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+245,"Hello, sab thikai chha?","Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+246,Sanchai hunuhunchha?,"Sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+247,K cha tapai?,"Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+248,Kasto din bhayo?,"Din ramro bhayo, tapai lai ke chahincha?",greetings
+249,Tapai ko din kasto chha?,"Din ramro chha, tapai lai kasari madat garna sakchu?",greetings
+250,"Good day, kasari chha?","Good day! Ma sanchai chhu, tapai lai ke chahincha?",greetings
+251,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+252,"Hello, tapai kasto chha?","Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+253,"Hi, kasari chha?","Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+254,"Good morning, tapai lai kasto chha?","Good morning! Ma thikai chhu, tapai lai ke chahincha?",greetings
+255,"Good afternoon, tapai lai kasto chha?","Good afternoon! Ma thikai chhu, tapai lai ke chahincha?",greetings
+256,"Good evening, tapai lai kasto chha?","Good evening! Ma thikai chhu, tapai lai ke chahincha?",greetings
+257,"Hi, sab thikai chha?","Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+258,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+259,"Hello, sab thikai chha?","Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+260,Sanchai hunuhunchha?,"Sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+261,K cha tapai?,"Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+262,Kasto din bhayo?,"Din ramro bhayo, tapai lai ke chahincha?",greetings
+263,Tapai ko din kasto chha?,"Din ramro chha, tapai lai kasari madat garna sakchu?",greetings
+264,"Good day, kasari chha?","Good day! Ma sanchai chhu, tapai lai ke chahincha?",greetings
+265,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+266,"Hello, tapai kasto chha?","Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+267,"Hi, kasari chha?","Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+268,"Good morning, tapai lai kasto chha?","Good morning! Ma thikai chhu, tapai lai ke chahincha?",greetings
+269,"Good afternoon, tapai lai kasto chha?","Good afternoon! Ma thikai chhu, tapai lai ke chahincha?",greetings
+270,"Good evening, tapai lai kasto chha?","Good evening! Ma thikai chhu, tapai lai ke chahincha?",greetings
+271,"Hi, sab thikai chha?","Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+272,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+273,"Hello, sab thikai chha?","Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+274,Sanchai hunuhunchha?,"Sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+275,K cha tapai?,"Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+276,Kasto din bhayo?,"Din ramro bhayo, tapai lai ke chahincha?",greetings
+277,Tapai ko din kasto chha?,"Din ramro chha, tapai lai kasari madat garna sakchu?",greetings
+278,"Good day, kasari chha?","Good day! Ma sanchai chhu, tapai lai ke chahincha?",greetings
+279,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+280,"Hello, tapai kasto chha?","Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+281,"Hi, kasari chha?","Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+282,"Good morning, tapai lai kasto chha?","Good morning! Ma thikai chhu, tapai lai ke chahincha?",greetings
+283,"Good afternoon, tapai lai kasto chha?","Good afternoon! Ma thikai chhu, tapai lai ke chahincha?",greetings
+284,"Good evening, tapai lai kasto chha?","Good evening! Ma thikai chhu, tapai lai ke chahincha?",greetings
+285,"Hi, sab thikai chha?","Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+286,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+287,"Hello, sab thikai chha?","Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+288,Sanchai hunuhunchha?,"Sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+289,K cha tapai?,"Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+290,Kasto din bhayo?,"Din ramro bhayo, tapai lai ke chahincha?",greetings
+291,Tapai ko din kasto chha?,"Din ramro chha, tapai lai kasari madat garna sakchu?",greetings
+292,"Good day, kasari chha?","Good day! Ma sanchai chhu, tapai lai ke chahincha?",greetings
+293,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+294,"Hello, tapai kasto chha?","Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+295,"Hi, kasari chha?","Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+296,"Good morning, tapai lai kasto chha?","Good morning! Ma thikai chhu, tapai lai ke chahincha?",greetings
+297,"Good afternoon, tapai lai kasto chha?","Good afternoon! Ma thikai chhu, tapai lai ke chahincha?",greetings
+298,"Good evening, tapai lai kasto chha?","Good evening! Ma thikai chhu, tapai lai ke chahincha?",greetings
+299,"Hi, sab thikai chha?","Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+300,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+301,"Hello, sab thikai chha?","Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+302,Sanchai hunuhunchha?,"Sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+303,K cha tapai?,"Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+304,Kasto din bhayo?,"Din ramro bhayo, tapai lai ke chahincha?",greetings
+305,Tapai ko din kasto chha?,"Din ramro chha, tapai lai kasari madat garna sakchu?",greetings
+306,"Good day, kasari chha?","Good day! Ma sanchai chhu, tapai lai ke chahincha?",greetings
+307,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+308,"Hello, tapai kasto chha?","Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+309,"Hi, kasari chha?","Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+310,"Good morning, tapai lai kasto chha?","Good morning! Ma thikai chhu, tapai lai ke chahincha?",greetings
+311,"Good afternoon, tapai lai kasto chha?","Good afternoon! Ma thikai chhu, tapai lai ke chahincha?",greetings
+312,"Good evening, tapai lai kasto chha?","Good evening! Ma thikai chhu, tapai lai ke chahincha?",greetings
+313,"Hi, sab thikai chha?","Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+314,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+315,"Hello, sab thikai chha?","Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+316,Sanchai hunuhunchha?,"Sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+317,K cha tapai?,"Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+318,Kasto din bhayo?,"Din ramro bhayo, tapai lai ke chahincha?",greetings
+319,Tapai ko din kasto chha?,"Din ramro chha, tapai lai kasari madat garna sakchu?",greetings
+320,"Good day, kasari chha?","Good day! Ma sanchai chhu, tapai lai ke chahincha?",greetings
+321,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+322,"Hello, tapai kasto chha?","Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+323,"Hi, kasari chha?","Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+324,"Good morning, tapai lai kasto chha?","Good morning! Ma thikai chhu, tapai lai ke chahincha?",greetings
+325,"Good afternoon, tapai lai kasto chha?","Good afternoon! Ma thikai chhu, tapai lai ke chahincha?",greetings
+326,"Good evening, tapai lai kasto chha?","Good evening! Ma thikai chhu, tapai lai ke chahincha?",greetings
+327,"Hi, sab thikai chha?","Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+328,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+329,"Hello, sab thikai chha?","Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+330,Sanchai hunuhunchha?,"Sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+331,K cha tapai?,"Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+332,Kasto din bhayo?,"Din ramro bhayo, tapai lai ke chahincha?",greetings
+333,Tapai ko din kasto chha?,"Din ramro chha, tapai lai kasari madat garna sakchu?",greetings
+334,"Good day, kasari chha?","Good day! Ma sanchai chhu, tapai lai ke chahincha?",greetings
+335,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+336,"Hello, tapai kasto chha?","Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+337,"Hi, kasari chha?","Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+338,"Good morning, tapai lai kasto chha?","Good morning! Ma thikai chhu, tapai lai ke chahincha?",greetings
+339,"Good afternoon, tapai lai kasto chha?","Good afternoon! Ma thikai chhu, tapai lai ke chahincha?",greetings
+340,"Good evening, tapai lai kasto chha?","Good evening! Ma thikai chhu, tapai lai ke chahincha?",greetings
+341,"Hi, sab thikai chha?","Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+342,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+343,"Hello, sab thikai chha?","Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+344,Sanchai hunuhunchha?,"Sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+345,K cha tapai?,"Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+346,Kasto din bhayo?,"Din ramro bhayo, tapai lai ke chahincha?",greetings
+347,Tapai ko din kasto chha?,"Din ramro chha, tapai lai kasari madat garna sakchu?",greetings
+348,"Good day, kasari chha?","Good day! Ma sanchai chhu, tapai lai ke chahincha?",greetings
+349,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+350,"Hello, tapai kasto chha?","Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+351,"Hi, kasari chha?","Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+352,"Good morning, tapai lai kasto chha?","Good morning! Ma thikai chhu, tapai lai ke chahincha?",greetings
+353,"Good afternoon, tapai lai kasto chha?","Good afternoon! Ma thikai chhu, tapai lai ke chahincha?",greetings
+354,"Good evening, tapai lai kasto chha?","Good evening! Ma thikai chhu, tapai lai ke chahincha?",greetings
+355,"Hi, sab thikai chha?","Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+356,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+357,"Hello, sab thikai chha?","Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+358,Sanchai hunuhunchha?,"Sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+359,K cha tapai?,"Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+360,Kasto din bhayo?,"Din ramro bhayo, tapai lai ke chahincha?",greetings
+361,Tapai ko din kasto chha?,"Din ramro chha, tapai lai kasari madat garna sakchu?",greetings
+362,"Good day, kasari chha?","Good day! Ma sanchai chhu, tapai lai ke chahincha?",greetings
+363,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+364,"Hello, tapai kasto chha?","Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+365,"Hi, kasari chha?","Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+366,"Good morning, tapai lai kasto chha?","Good morning! Ma thikai chhu, tapai lai ke chahincha?",greetings
+367,"Good afternoon, tapai lai kasto chha?","Good afternoon! Ma thikai chhu, tapai lai ke chahincha?",greetings
+368,"Good evening, tapai lai kasto chha?","Good evening! Ma thikai chhu, tapai lai ke chahincha?",greetings
+369,"Hi, sab thikai chha?","Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+370,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+371,"Hello, sab thikai chha?","Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+372,Sanchai hunuhunchha?,"Sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+373,K cha tapai?,"Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+374,Kasto din bhayo?,"Din ramro bhayo, tapai lai ke chahincha?",greetings
+375,Tapai ko din kasto chha?,"Din ramro chha, tapai lai kasari madat garna sakchu?",greetings
+376,"Good day, kasari chha?","Good day! Ma sanchai chhu, tapai lai ke chahincha?",greetings
+377,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+378,"Hello, tapai kasto chha?","Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+379,"Hi, kasari chha?","Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+380,"Good morning, tapai lai kasto chha?","Good morning! Ma thikai chhu, tapai lai ke chahincha?",greetings
+381,"Good afternoon, tapai lai kasto chha?","Good afternoon! Ma thikai chhu, tapai lai ke chahincha?",greetings
+382,"Good evening, tapai lai kasto chha?","Good evening! Ma thikai chhu, tapai lai ke chahincha?",greetings
+383,"Hi, sab thikai chha?","Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+384,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+385,"Hello, sab thikai chha?","Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+386,Sanchai hunuhunchha?,"Sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+387,K cha tapai?,"Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+388,Kasto din bhayo?,"Din ramro bhayo, tapai lai ke chahincha?",greetings
+389,Tapai ko din kasto chha?,"Din ramro chha, tapai lai kasari madat garna sakchu?",greetings
+390,"Good day, kasari chha?","Good day! Ma sanchai chhu, tapai lai ke chahincha?",greetings
+391,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+392,"Hello, tapai kasto chha?","Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+393,"Hi, kasari chha?","Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+394,"Good morning, tapai lai kasto chha?","Good morning! Ma thikai chhu, tapai lai ke chahincha?",greetings
+395,"Good afternoon, tapai lai kasto chha?","Good afternoon! Ma thikai chhu, tapai lai ke chahincha?",greetings
+396,"Good evening, tapai lai kasto chha?","Good evening! Ma thikai chhu, tapai lai ke chahincha?",greetings
+397,"Hi, sab thikai chha?","Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+398,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+399,"Hello, sab thikai chha?","Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+400,Sanchai hunuhunchha?,"Sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+401,K cha tapai?,"Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+402,Kasto din bhayo?,"Din ramro bhayo, tapai lai ke chahincha?",greetings
+403,Tapai ko din kasto chha?,"Din ramro chha, tapai lai kasari madat garna sakchu?",greetings
+404,"Good day, kasari chha?","Good day! Ma sanchai chhu, tapai lai ke chahincha?",greetings
+405,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+406,"Hello, tapai kasto chha?","Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+407,"Hi, kasari chha?","Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+408,"Good morning, tapai lai kasto chha?","Good morning! Ma thikai chhu, tapai lai ke chahincha?",greetings
+409,"Good afternoon, tapai lai kasto chha?","Good afternoon! Ma thikai chhu, tapai lai ke chahincha?",greetings
+410,"Good evening, tapai lai kasto chha?","Good evening! Ma thikai chhu, tapai lai ke chahincha?",greetings
+411,"Hi, sab thikai chha?","Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+412,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+413,Hello,Hello! Ma tapai ko madat kasari garna sakchu?,greetings
+414,Hello,Hello! Ma tapai ko madat kasari garna sakchu?,greetings
+415,Hello,Hello! Ma tapai ko lagi ke garna sakchu?,greetings
+416,Hello,Hello! Ma tapai lai kasari sahayog garna sakchu?,greetings
+417,Hello,Hello! Ke chahincha? Ma madat garna tayar chhu.,greetings
+418,Hello,Hello! Ma kasari sahayog garna sakchu?,greetings
+419,Hello,Hello! Ma ke garna sakchu tapai ko lagi?,greetings
+420,Hello,Hello! Tapai ko lagi ma k garna sakchu?,greetings
+421,Hi,Hi! Ma tapai ko madat kasari garna sakchu?,greetings
+422,Hi,Hi! Ma tapai ko lagi ke garna sakchu?,greetings
+423,Hi,Hi! Ma tapai lai kasari sahayog garna sakchu?,greetings
+424,Hi,Hi! Ke chahincha? Ma madat garna tayar chhu.,greetings
+425,Hi,Hi! Ma kasari sahayog garna sakchu?,greetings
+426,Hi,Hi! Ma ke garna sakchu tapai ko lagi?,greetings
+427,Hi,Hi! Tapai ko lagi ma k garna sakchu?,greetings
+428,Hello,Hello! Ma tapai ko madat kasari garna sakchu?,greetings
+429,Hello,Hello! Ma tapai ko lagi ke garna sakchu?,greetings
+430,Hello,Hello! Ma tapai lai kasari sahayog garna sakchu?,greetings
+431,Hello,Hello! Ke chahincha? Ma madat garna tayar chhu.,greetings
+432,Hello,Hello! Ma kasari sahayog garna sakchu?,greetings
+433,Hello,Hello! Ma ke garna sakchu tapai ko lagi?,greetings
+434,Hello,Hello! Tapai ko lagi ma k garna sakchu?,greetings
+435,Hi,Hi! Ma tapai ko madat kasari garna sakchu?,greetings
+436,Hi,Hi! Ma tapai ko lagi ke garna sakchu?,greetings
+437,Hi,Hi! Ma tapai lai kasari sahayog garna sakchu?,greetings
+438,Hi,Hi! Ke chahincha? Ma madat garna tayar chhu.,greetings
+439,Hi,Hi! Ma kasari sahayog garna sakchu?,greetings
+440,Hi,Hi! Ma ke garna sakchu tapai ko lagi?,greetings
+441,Hi,Hi! Tapai ko lagi ma k garna sakchu?,greetings
+442,Namaste,Namaste! Ma tapai ko madat kasari garna sakchu?,greetings
+443,Namaste,Namaste! Ma tapai ko lagi ke garna sakchu?,greetings
+444,Namaste,Namaste! Ma tapai lai kasari sahayog garna sakchu?,greetings
+445,Namaste,Namaste! Ke chahincha? Ma madat garna tayar chhu.,greetings
+446,Namaste,Namaste! Ma kasari sahayog garna sakchu?,greetings
+447,Namaste,Namaste! Ma ke garna sakchu tapai ko lagi?,greetings
+448,Namaste,Namaste! Tapai ko lagi ma k garna sakchu?,greetings
+449,Hello,Hello! Ma tapai ko madat kasari garna sakchu?,greetings
+450,Hello,Hello! Ma tapai ko lagi ke garna sakchu?,greetings
+451,Hello,Hello! Ma tapai lai kasari sahayog garna sakchu?,greetings
+452,Hello,Hello! Ke chahincha? Ma madat garna tayar chhu.,greetings
+453,Hello,Hello! Ma kasari sahayog garna sakchu?,greetings
+454,Hello,Hello! Ma ke garna sakchu tapai ko lagi?,greetings
+455,Hello,Hello! Tapai ko lagi ma k garna sakchu?,greetings
+456,Hi,Hi! Ma tapai ko madat kasari garna sakchu?,greetings
+457,Hi,Hi! Ma tapai ko lagi ke garna sakchu?,greetings
+458,Hi,Hi! Ma tapai lai kasari sahayog garna sakchu?,greetings
+459,Hi,Hi! Ke chahincha? Ma madat garna tayar chhu.,greetings
+460,Hi,Hi! Ma kasari sahayog garna sakchu?,greetings
+461,Hi,Hi! Ma ke garna sakchu tapai ko lagi?,greetings
+462,Hi,Hi! Tapai ko lagi ma k garna sakchu?,greetings
+463,Namaste,Namaste! Ma tapai ko madat kasari garna sakchu?,greetings
+464,Namaste,Namaste! Ma tapai ko lagi ke garna sakchu?,greetings
+465,Namaste,Namaste! Ma tapai lai kasari sahayog garna sakchu?,greetings
+466,Namaste,Namaste! Ke chahincha? Ma madat garna tayar chhu.,greetings
+467,Namaste,Namaste! Ma kasari sahayog garna sakchu?,greetings
+468,Namaste,Namaste! Ma ke garna sakchu tapai ko lagi?,greetings
+469,Namaste,Namaste! Tapai ko lagi ma k garna sakchu?,greetings
+470,Hello,Hello! Ma tapai ko madat kasari garna sakchu hola.,greetings
+471,Hello,Hello! Ma tapai ko madat kasari garna sakchu?,greetings
+472,Hello,Hello! Ma tapai ko lagi ke garna sakchu?,greetings
+473,Hello,Hello! Ma tapai lai kasari sahayog garna sakchu?,greetings
+474,Hello,Hello! Ke chahincha? Ma madat garna tayar chhu.,greetings
+475,Hello,Hello! Ma kasari sahayog garna sakchu?,greetings
+476,Hello,Hello! Ma ke garna sakchu tapai ko lagi?,greetings
+477,Hello,Hello! Tapai ko lagi ma k garna sakchu?,greetings
+478,Hi,Hi! Ma tapai ko madat kasari garna sakchu?,greetings
+479,Hi,Hi! Ma tapai ko lagi ke garna sakchu?,greetings
+480,Hi,Hi! Ma tapai lai kasari sahayog garna sakchu?,greetings
+481,Hi,Hi! Ke chahincha? Ma madat garna tayar chhu.,greetings
+482,Hi,Hi! Ma kasari sahayog garna sakchu?,greetings
+483,Hi,Hi! Ma ke garna sakchu tapai ko lagi?,greetings
+484,Hi,Hi! Tapai ko lagi ma k garna sakchu?,greetings
+485,Namaste,Namaste! Ma tapai ko madat kasari garna sakchu?,greetings
+486,Namaste,Namaste! Ma tapai ko lagi ke garna sakchu?,greetings
+487,Namaste,Namaste! Ma tapai lai kasari sahayog garna sakchu?,greetings
+488,Namaste,Namaste! Ke chahincha? Ma madat garna tayar chhu.,greetings
+489,Namaste,Namaste! Ma kasari sahayog garna sakchu?,greetings
+490,Namaste,Namaste! Ma ke garna sakchu tapai ko lagi?,greetings
+491,Namaste,Namaste! Tapai ko lagi ma k garna sakchu?,greetings
+492,Hello,Hello! Ma tapai ko madat kasari garna sakchu?,greetings
+493,Hello,Hello! Ma tapai ko lagi ke garna sakchu?,greetings
+494,Hello,Hello! Ma tapai lai kasari sahayog garna sakchu?,greetings
+495,Hello,Hello! Ke chahincha? Ma madat garna tayar chhu.,greetings
+496,Hello,Hello! Ma kasari sahayog garna sakchu?,greetings
+497,Hello,Hello! Ma ke garna sakchu tapai ko lagi?,greetings
+498,Hello,Hello! Tapai ko lagi ma k garna sakchu?,greetings
+499,Hi,Hi! Ma tapai ko madat kasari garna sakchu?,greetings
+500,Hi,Hi! Ma tapai ko lagi ke garna sakchu?,greetings
